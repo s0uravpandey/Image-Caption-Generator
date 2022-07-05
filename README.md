@@ -1,14 +1,14 @@
 # Image-Caption-Generator
-Image Caption Generator
-Download the pyhton image caption generator folder
-Download all the libraries of python from anaconda navigator:-
-numpy
-matplotlib
-tensorflow
-keras
-pillow
-tqdm
-pandas
+Image Caption Generator<br>
+Download the python image caption generator folder<br>
+Download all the libraries of python from anaconda navigator:-<br>
+numpy<br>
+matplotlib<br>
+tensorflow<br>
+keras<br>
+pillow<br>
+tqdm<br>
+pandas<br>
 
 Open Ananaconda Prompt
 Change directory to Image Caption generator folder
